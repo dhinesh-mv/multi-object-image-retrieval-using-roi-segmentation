@@ -62,8 +62,8 @@ The complete frame extraction and object segmentation outputs contain thousands 
 ## 👥 Team Members
 
 - Dhinesh M
-- S. Vijayan
-- E. Vignesh
+- Vijayan S
+- Vignesh E
 
 ## 🎓 Project Information
 
